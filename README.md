@@ -12,7 +12,7 @@ This is my GitHub repository where I save copies of Katas which I completed to p
 </ul>
 <h3>Level 7</h3>
 <ul>
- <li><a href="https://github.com/steelersbcn/CodeWars-Bootcamp-Prep/blob/master/JS/doublechar.js" target="_blank">Password-Maker</li></a>
+ <li><a href="https://github.com/steelersbcn/CodeWars-Bootcamp-Prep/blob/master/JS/password-maker.js" target="_blank">Password-Maker</li></a>
 </ul>
 <h3>Level 6</h3>
 
