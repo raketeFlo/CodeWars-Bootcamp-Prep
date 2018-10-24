@@ -7,7 +7,7 @@ This is my GitHub repository where I save copies of Katas I completed to prepare
 
 <h3>Level 8</h3>
 <ul>
-  <li><a href="https://github.com/steelersbcn/CodeWars-Bootcamp-Prep/blob/master/doublechar.js" target="_blank">Double Char</li></a>
+  <li><a href="https://github.com/steelersbcn/CodeWars-Bootcamp-Prep/blob/master/JS/doublechar.js" target="_blank">Double Char</li></a>
 
 </ul>
 <h3>Level 7</h3>
