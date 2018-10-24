@@ -13,7 +13,6 @@ Examples: makePassword "Give me liberty or give me death" -> "Gml0gmd" makePassw
 */
 
 function makePassword(phrase) {
-  // Your code here
   let arr = phrase.split(' ');
   let firstLetter = [];
 
@@ -21,7 +20,6 @@ function makePassword(phrase) {
     firstLetter.push(arr[i].slice(0, 1));
     
   }
-  
   let newStr = firstLetter.join('');
   
   return newStr.replace(/i/gi, "1").replace(/o/gi, "0").replace(/s/gi, "5");
