@@ -25,4 +25,4 @@ function makePassword(phrase) {
   return newStr.replace(/i/gi, "1").replace(/o/gi, "0").replace(/s/gi, "5");
 }
 
-console.log(makePassword("Give me liberty or give me death"), "Gml0gmd", "Wrong output for 'Give me liberty or give me death'"));
+console.log(makePassword("Give me liberty or give me death")); // "Gml0gmd", "Wrong output for 'Give me liberty or give me death'"
