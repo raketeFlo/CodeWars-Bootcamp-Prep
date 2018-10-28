@@ -17,5 +17,5 @@ function doubleChar(str) {
   return newStr;
 }
 
-console.log(doubleChar("abcd"), "aabbccdd"));
-console.log(doubleChar("Adidas"), "AAddiiddaass"));
+console.log(doubleChar("abcd")); //"aabbccdd"
+console.log(doubleChar("Adidas")); //"AAddiiddaass"
