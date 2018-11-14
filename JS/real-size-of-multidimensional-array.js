@@ -26,3 +26,5 @@ function realSize(arrays) {
   }
  return sum;
 }
+
+alert(realSize([[[5], 3], 0, 2, [], [4, [5, 6]]])); // "expected: 7"
